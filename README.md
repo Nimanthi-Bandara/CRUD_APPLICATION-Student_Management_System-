@@ -2,11 +2,11 @@ Student Data Management System Backend
 This project is a backend application for managing student data, built using Spring Boot. It provides a complete CRUD (Create, Read, Update, Delete) functionality with RESTful APIs for seamless interaction with the student database.  
 
 Features  
-Student Management:  
-Add new student records.  
-Retrieve individual or all student records.  
-Update existing student details.  
-Delete student records.  
+* Student Management:  
+* Add new student records.  
+* Retrieve individual or all student records.  
+* Update existing student details.  
+* Delete student records.  
 
 RESTful APIs:  
 API endpoints for each operation with JSON responses.  
